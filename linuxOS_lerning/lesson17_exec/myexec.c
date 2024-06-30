@@ -17,7 +17,6 @@ int test()
     printf("process running done...\n");
 
     return 0;
-        
 }
 
 int main()
